@@ -5,8 +5,8 @@ from numpy import interp
 from math import cos
 from math import radians
 
-width = 600
-height = 600
+width = 300
+height = 300
 
 class Boundary:
     def __init__(self, width, height):
